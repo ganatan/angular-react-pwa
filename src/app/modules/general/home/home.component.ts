@@ -32,7 +32,7 @@ export class HomeComponent implements OnInit {
         },
         {
           name: 'HttpClient',
-          description: 'Add dialogs to your site',
+          description: 'HttpClient',
           icon: 'fa-comment-alt',
           link: 'httpclient'
         },
@@ -62,15 +62,15 @@ export class HomeComponent implements OnInit {
         },
         {
           name: 'Reactiveform',
-          description: 'Add dialogs to your site',
+          description: 'Create Reactive Form',
           icon: 'fa-comment-alt',
-          link: 'modal'
+          link: 'reactiveform'
         },
         {
           name: 'Template Driven Form',
-          description: 'Add dialogs to your site',
+          description: 'Create Template Driven Form',
           icon: 'fa-comment-alt',
-          link: 'modal'
+          link: 'templatedriven'
         },
       ];
 

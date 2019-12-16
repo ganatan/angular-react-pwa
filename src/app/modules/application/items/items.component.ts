@@ -45,6 +45,8 @@ export class ItemsComponent implements OnInit {
             this.loaded = true;
             this.state.set(STATE_KEY_ITEMS, <any> items);
           });
+    } else {
+      this.loaded = true;
     }
   }
 
@@ -54,13 +56,3 @@ export class ItemsComponent implements OnInit {
   }
 
 }
-
-
-
-
-
-
-
-
-
-

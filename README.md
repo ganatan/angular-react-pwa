@@ -8,7 +8,7 @@
 * [Step 2 : Example Routing](https://github.com/ganatan/angular-example-routing)
 * [Step 3 : Example Lazy-loading](https://github.com/ganatan/angular-example-lazy-loading)
 * [Step 4 : Example Bootstrap](https://github.com/ganatan/angular-example-bootstrap)
-* [Step 5 : Example Features](https://github.com/ganatan/angular-features)
+* [Step 5 : Example Features](https://github.com/ganatan/angular-example-features)
 * [Step 6 : Example Server Side Rendering](https://github.com/ganatan/angular-example-ssr)
 * [Step 7 : Example HTTP Client](https://github.com/ganatan/angular-example-httpclient)
 * [Step 8 : Example Transfer State](https://github.com/ganatan/angular-example-transferstate)
@@ -19,6 +19,7 @@
 
 # Web Application Live Demo
 [https://angular.ganatan.com](https://angular.ganatan.com)
+
 
 ## Quick start
 
@@ -70,7 +71,7 @@ What you need to run this app:
 * `npm run e2e`
 
 ### Author
-* Updated : 15/12/2019
+* Updated : 16/12/2019
 * Author  : danny
 
 ### Documentation

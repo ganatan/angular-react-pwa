@@ -32,7 +32,6 @@ export class ServicesComponent implements OnInit {
   }
 
   onChange($event: any) {
-    console.log('0002:' + $event.target.value);
     this.yearSelected = $event.target.value;
     this.songs = this.songService.getSongs(this.yearSelected);
     this.songSelected = null;
