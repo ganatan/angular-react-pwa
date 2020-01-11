@@ -1,6 +1,6 @@
 # Angular 8 Example PWA
 
-> An Angular starter kit featuring [Angular 8.2.14](https://angular.io), [Angular CLI 8.3.21](https://cli.angular.io/)
+> An Angular starter kit featuring [Angular 8.2.14](https://angular.io), [Angular CLI 8.3.22](https://cli.angular.io/)
 
 > it's part of a repo series designed to create a Progressive Web App with Angular
 
@@ -42,7 +42,7 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 ### Prerequisites
 What you need to run this app:
 * Angular version 8.2.14
-* Angular CLI version 8.3.21
+* Angular CLI version 8.3.22
 * Typescript version 3.5.3
 * Node.js version 12.14.0 LTS (Long Term Support)
 * npm (node package manager) version 6.13.4
@@ -71,7 +71,8 @@ What you need to run this app:
 * `npm run e2e`
 
 ### Author
-* Updated : 24/12/2019
+* Updated : 11/01/2020
+
 * Author  : danny
 
 ### Documentation
