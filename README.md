@@ -1,6 +1,6 @@
 # Angular 9 Example PWA
 
-> An Angular starter kit featuring [Angular 9.0.1](https://angular.io), [Angular CLI 9.0.2](https://cli.angular.io/)
+> An Angular starter kit featuring [Angular 9.0.5](https://angular.io), [Angular CLI 9.0.5](https://cli.angular.io/)
 
 > it's part of a repo series designed to create a Progressive Web App with Angular
 
@@ -15,7 +15,7 @@
 * [Step 9 : Example PWA](https://github.com/ganatan/angular-example-pwa)
 * [Step 10 : Example SEO](https://github.com/ganatan/angular-example-seo)
 
-* [Step 11 : Angular 8 Application](https://github.com/ganatan/angular8-app)
+* [Step 11 : Angular 9 Application](https://github.com/ganatan/angular9-app)
 
 # Web Application Live Demo
 [https://angular.ganatan.com](https://angular.ganatan.com)
@@ -41,11 +41,11 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 
 ### Prerequisites
 What you need to run this app:
-* Angular version 9.0.1
-* Angular CLI version 9.0.2
+* Angular version 9.0.5
+* Angular CLI version 9.0.5
 * Typescript version 3.7.5
-* Node.js version 12.16.0 LTS (Long Term Support)
-* npm (node package manager) version 6.13.7
+* Node.js version 12.16.1 LTS (Long Term Support)
+* npm (node package manager) version 6.14.2
 
 * Jquery version 3.4.1
 * Bootstrap version 4.4.1
@@ -71,7 +71,7 @@ What you need to run this app:
 * `npm run e2e`
 
 ### Author
-* Updated : 19/02/2020
+* Updated : 07/032020
 
 * Author  : danny
 
