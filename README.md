@@ -45,7 +45,7 @@ What do you need to run this app:
 * Angular version 10.0.14
 * Angular CLI version 10.0.8
 * Jquery version 3.5.1
-* Bootstrap version 4.5.1
+* Bootstrap version 4.5.2
 * Fontawesome version 5.14.0
 
 ## Getting Started
@@ -77,7 +77,7 @@ What do you need to run this app:
 * `npm run e2e`
 
 ### Author
-* Updated : 27/08/2020
+* Updated : 31/08/2020
 * Author  : danny
 
 ### Documentation
