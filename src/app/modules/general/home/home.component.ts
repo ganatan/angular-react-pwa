@@ -49,12 +49,6 @@ export class HomeComponent implements OnInit {
           link: 'template-driven-forms'
         },
         {
-          name: 'Template Driven Forms',
-          description: 'Template Driven Forms Description',
-          icon: 'fab fa-bootstrap',
-          link: 'template-driven-forms'
-        },
-        {
           name: 'Items',
           description: 'Items',
           icon: 'fab fa-bootstrap',
@@ -64,7 +58,7 @@ export class HomeComponent implements OnInit {
 
   }
 
-  ngOnInit() {
+  ngOnInit(): void {
   }
 
 }
