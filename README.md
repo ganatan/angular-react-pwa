@@ -1,32 +1,26 @@
 # Angular 11 Example PWA
 
-> An Angular starter kit featuring [Angular 11.0.0](https://angular.io), [Angular CLI 11.0.0](https://cli.angular.io/)
+> An Angular starter kit featuring [Angular 11.0.1](https://angular.io), [Angular CLI 11.0.2](https://cli.angular.io/)
 
 > it's part of a repo series designed to create a Progressive Web App with Angular
 
-* [Step 1 : Example Starter](https://github.com/ganatan/angular-example-starter)
-* [Step 2 : Example Routing](https://github.com/ganatan/angular-example-routing)
-* [Step 3 : Example Lazy-loading](https://github.com/ganatan/angular-example-lazy-loading)
-* [Step 4 : Example Bootstrap](https://github.com/ganatan/angular-example-bootstrap)
-* [Step 5 : Example Features](https://github.com/ganatan/angular-example-features)
-* [Step 6 : Example Server Side Rendering](https://github.com/ganatan/angular-example-ssr)
-* [Step 7 : Example HTTP Client](https://github.com/ganatan/angular-example-httpclient)
-* [Step 8 : Example Transfer State](https://github.com/ganatan/angular-example-transferstate)
-* [Step 9 : Example PWA](https://github.com/ganatan/angular-example-pwa)
-* [Step 10 : Example SEO](https://github.com/ganatan/angular-example-seo)
-
-* [Step 11 : Angular 11 Application](https://github.com/ganatan/angular11-app)
-
 # Web Application Live Demo
 <a href="https://angular.ganatan.com/">
-  <img src="https://media.giphy.com/media/RfqiR12yhtHpwaItBq/giphy.gif" alt="Angular 8 Example Application"/>
+  <img src="https://media.giphy.com/media/RfqiR12yhtHpwaItBq/giphy.gif" alt="Angular 11 Example Application"/>
 </a>
 
 ## Quick start
 
 ```bash
-# clone the repo
+# select a repo
+# download the example or clone the repo from github
 git clone https://github.com/ganatan/angular-example-pwa.git
+
+# download the example or clone the repo from gitlab
+git clone https://gitlab.com/ganatan/angular-example-pwa.git
+
+# download the example or clone the repo from bitbucket
+git clone https://bitbucket.org/ganatan/angular-example-pwa.git
 
 # change directory
 cd angular-example-pwa
@@ -50,7 +44,7 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 * `npm run start`
 * in your browser [http://localhost:4200](http://localhost:4200) 
 
-## Tests
+## Tests (Use Chrome Version 87 minimum)
 * `npm run lint`
 * `npm run test`
 * `npm run e2e`
