@@ -1,6 +1,6 @@
 # Angular 11 Example PWA
 
-> An Angular starter kit featuring [Angular 11.0.2](https://angular.io), [Angular CLI 11.0.2](https://cli.angular.io/)
+> An Angular starter kit featuring [Angular 11.2.12](https://angular.io), [Angular CLI 11.2.11](https://cli.angular.io/)
 
 > it's part of a repo series designed to create a Progressive Web App with Angular
 
