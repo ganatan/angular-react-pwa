@@ -22,7 +22,7 @@ export class HomeComponent {
       'This application was developed with ' + this.version + ' and ' + this.bootstrap +
       ' It applies Routing, Lazy loading and Progressive Web App (PWA)';
 
-    const title = 'angular-seo Title : Home Page';
+    const title = 'angular-pwa Title : Home Page';
 
     this.seoService.setMetaDescription(content);
     this.seoService.setMetaTitle(title);

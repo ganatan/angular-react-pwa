@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from "react-router-dom";
 
 import './home.css';
-import SeoService from '../../../services/seo/seo-service';
+import Seo from '../../../components/seo/seo';
 
 import { environment } from '../../../../environments/environment';
 
@@ -85,11 +85,11 @@ class Home extends React.Component {
       'This application was developed with ' + this.version + ' and ' + this.bootstrap +
       ' It applies Routing, Lazy loading and Progressive Web App (PWA)';
 
-    const title = 'react-seo - Title - Home Page';
+    const title = 'react-pwa - Title - Home Page';
 
     return (
       <div>
-        <SeoService content={content} title={title}></SeoService>
+        <Seo content={content} title={title}></Seo>
         <div className="container py-5">
           <div className="row">
             <div className="col-12 col-sm-12 col-md-12 col-lg-3 col-xl-3 text-center mb-2">

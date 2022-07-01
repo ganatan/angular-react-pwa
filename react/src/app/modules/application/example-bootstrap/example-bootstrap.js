@@ -4,17 +4,17 @@ import { Link } from 'react-router-dom';
 import ExampleBootstrapRouting from './example-bootstrap-routing';
 
 import './example-bootstrap.css';
-import SeoService from '../../../services/seo/seo-service';
+import Seo from '../../../components/seo/seo';
 
 class ExampleBootstrap extends React.Component {
   render() {
 
-    const content = 'react-seo - Description - example-bootstrap Page';
-    const title = 'react-seo - Title - example-bootstrap Page';
+    const content = 'react-pwa - Description - example-bootstrap Page';
+    const title = 'react-pwa - Title - example-bootstrap Page';
 
     return (
       <div>
-        <SeoService content={content} title={title}></SeoService>
+        <Seo content={content} title={title}></Seo>
         <div id="example-bootstrap">
           <ul>
             <li><Link to="main">main</Link></li>

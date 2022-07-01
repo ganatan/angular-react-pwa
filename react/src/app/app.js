@@ -13,7 +13,7 @@ class App extends React.Component {
 
   constructor(props) {
     super(props);
-    this.title = 'react-seo';
+    this.title = 'react-pwa';
     this.footerUrl = 'https://www.ganatan.com';
     this.footerLink = 'www.ganatan.com';
   }

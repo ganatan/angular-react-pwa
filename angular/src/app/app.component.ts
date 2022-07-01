@@ -8,7 +8,7 @@ import { isPlatformBrowser } from '@angular/common';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  title = 'angular-seo';
+  title = 'angular-pwa';
   footerUrl = 'https://www.ganatan.com/';
   footerLink = 'www.ganatan.com';
 

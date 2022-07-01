@@ -4,18 +4,18 @@ import { Link } from 'react-router-dom';
 import ContactRouting from './contact-routing';
 
 import './contact.css';
-import SeoService from '../../../services/seo/seo-service';
+import Seo from '../../../components/seo/seo';
 
 class Contact extends React.Component {
 
   render() {
 
-    const content = 'react-seo - Description - Contact Page';
-    const title = 'react-seo - Title - Contact Page';
+    const content = 'react-pwa - Description - Contact Page';
+    const title = 'react-pwa - Title - Contact Page';
 
     return (
       <div>
-        <SeoService content={content} title={title}></SeoService>
+        <Seo content={content} title={title}></Seo>
         <div className="container py-5">
           <p>contact works!</p>
           <ul>

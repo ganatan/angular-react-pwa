@@ -1,17 +1,17 @@
 import React from 'react';
 
 import './about.css';
-import SeoService from '../../../services/seo/seo-service';
+import Seo from '../../../components/seo/seo';
 
 class About extends React.Component {
   render() {
 
-    const content = 'react-seo - Description - About Page';
-    const title = 'react-seo - Title - About Page';
+    const content = 'react-pwa - Description - About Page';
+    const title = 'react-pwa - Title - About Page';
 
     return (
       <div>
-        <SeoService content={content} title={title}></SeoService>
+        <Seo content={content} title={title}></Seo>
         <div className="container py-5">
           <p className="text-center">about works!</p>
         </div>
