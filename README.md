@@ -1,4 +1,4 @@
-# Angular 17 & React 18 Examples PWA
+# Angular 18 & React 18 Examples PWA
 
 <table>
 <tr>
@@ -12,7 +12,7 @@ it's part of a repo series designed
 
 to create a **Web Application with Angular 17**
 
-* Featuring [**Angular 17.0.8**](https://github.com/angular/angular/releases) & [**Angular CLI 17.0.9**](https://github.com/angular/angular-cli/releases/)
+* Featuring [**Angular 18.0.1**](https://github.com/angular/angular/releases) & [**Angular CLI 18.0.2**](https://github.com/angular/angular-cli/releases/)
 
 
 * See the [**Live demo**](#angular-live-demo), Test the repo with [**Quick start**](#angular-quick-start) and for more information Read the step by step [**Tutorial**](#angular-tutorial) or read the [**Getting started**](#angular-getting-started)
@@ -21,7 +21,7 @@ to create a **Web Application with Angular 17**
 to create a **Web Application with React 18**
 
 
-* Featuring [**React 18.2.0**](https://github.com/facebook/react/releases) & [**Create-react-app 5.0.1**](https://github.com/facebook/create-react-app/releases)
+* Featuring [**React 18.3.1**](https://github.com/facebook/react/releases) & [**Create-react-app 5.0.1**](https://github.com/facebook/create-react-app/releases)
 
 
 
